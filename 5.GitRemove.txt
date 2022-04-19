@@ -1,0 +1,10 @@
+git rm --cached filename
+this will remove commited file and put it into untracked file.
+
+git rm filename
+This will remove the commited file and won't show it in untracked files.
+
+git status -s
+This will show the list of the files if modified.
+red M means modified but not commited
+Green M means file modified and in staged area.

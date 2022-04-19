@@ -1,0 +1,20 @@
+touch .gitignore
+This will create a gitignore file.
+
+Add a file name in .gitignore file. It will ignore all the files with that name.
+
+If you want to ignore all the files with the same extention eg .log just add *.log 
+
+If you add /filename, it will ignore the file if it is presented in the git ignore folder.
+
+You can add a whole folder to be ignored by adding the folder name ended by a / in the gitignore folder.
+
+gitignore folder below.
+1. assignment.html
+2. *.log 
+3. /assignment.html
+4. foldername/
+
+
+
+

@@ -1,0 +1,10 @@
+git log
+This will give you what you have commited.
+
+git log -p -1
+If you have more than 1000 logs adding a number at the end of git log command will only show the last one.
+Ex- I have added -1, this means it will only show one log and show all the changes.
+
+diff
+It is found in the log that means what is the difference and changes.
+

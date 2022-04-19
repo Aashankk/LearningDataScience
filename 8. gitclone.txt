@@ -1,0 +1,2 @@
+git clone link foldername
+you can open public folders and save it 

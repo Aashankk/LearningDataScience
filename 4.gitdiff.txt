@@ -1,0 +1,13 @@
+git diff 
+This will tell us what has been changed in the modified file.
+This will only tell us if something is modified and not commited.
+
+git diff --staged
+staging area ko last commit se compare karta hai.
+
+ls 
+this feature will list all the files.
+
+
+
+

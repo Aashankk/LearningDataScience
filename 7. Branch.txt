@@ -1,0 +1,19 @@
+Branch means you can try out thing with original file without messing anything up.
+Main branch is master branch
+Be smart and don't mess up master file.
+
+$ git branch feature1
+This will add a branch named feature1. You will also see a master branch and that is the original one.
+
+$ git branch
+This will show you all the branches
+
+$ git checkout feature1
+This will switch to branch feature1
+
+You can play and be creative in feature1 branch without messing master branch.
+
+$ git mergue feature1
+Use this command after switchin to master branch
+If you create something nice and get permission to mergue feature1 to master.
+

@@ -1,0 +1,40 @@
+git config --global user.name Aashank
+set your username and id 
+
+
+git init
+Initialized empty Git repository
+
+ls -lart
+sare ke sare hidden folders reviel karta hai
+.git folder mai files save karta hai(dont mess up with it)
+
+git status
+to check the status of the files.
+Use this once in a while to see if everything is going right
+
+git add filename.html
+this will take the file to staging area
+
+touch about.html
+this command will create a new blank file
+
+git add -A
+this command will add all the files into staging area
+After adding the file in staging area
+you can modify the file and then use git add -A function to add in staging area again
+
+working tree clean means
+everything is running great
+
+ git commit -m "add a valid comment"
+use git commit -m and write any message "" in this to commit the files.
+
+git commit -a -m "Add a valid comment"
+This commits the file straight away 
+
+$ clear 
+to clear the terminal
+
+
+
